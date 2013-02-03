@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Writings by Inti Ocean]]></title>
+  <link href="http://intiocean.github.com/atom.xml" rel="self"/>
+  <link href="http://intiocean.github.com/"/>
+  <updated>2013-02-03T20:52:58+00:00</updated>
+  <id>http://intiocean.github.com/</id>
+  <author>
+    <name><![CDATA[Inti Ocean]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[octopress]]></title>
+    <link href="http://intiocean.github.com/blog/2012/04/09/octopress/"/>
+    <updated>2012-04-09T14:37:00+01:00</updated>
+    <id>http://intiocean.github.com/blog/2012/04/09/octopress</id>
+    <content type="html"><![CDATA[<p>I&#8217;m trying out <a href="http://octopress.org">octopress</a>.</p>
+
+<p>As you may or may not have noticed depending on how long after this post was written you are reading this, I have decided to use <a href="http://octopress.org">octopress</a>. If it happens that you are reading this as the second most recent post it is likely that my most recent post is about a different blogging framework which I have decided to use! ;)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blogs I follow]]></title>
+    <link href="http://intiocean.github.com/blog/2012/03/08/blogs-i-follow/"/>
+    <updated>2012-03-08T22:05:00+00:00</updated>
+    <id>http://intiocean.github.com/blog/2012/03/08/blogs-i-follow</id>
+    <content type="html"><![CDATA[<p>Below are a few of my favorite blogs which I follow.</p>
+
+<ul>
+<li><a href="http://daringfireball.net/">daring fireball</a> is a apple centric blog although John Gruber also writes about other businesses occasionally though usually in comparison with apple. This is a great blog for apple news.</li>
+<li><a href="http://www.swiss-miss.com/">swiss miss</a> is a swiss designers blog. Tina Roth Eisenberg lives in NYC and reblogs cool and interesting designs. One thing I especially like about this blog is that it is centered around images with a few words accompanying each image.</li>
+<li><a href="http://www.farnamstreetblog.com/">farnam street</a> is a blog which have recently started following but it deserves a mention as most things I have read from it have been interesting and thought provoking.</li>
+<li>I used to enjoy following <a href="http://lifehacker.com/">lifehacker</a> but these days I find its just too busy and much of what they post is not interesting to me so I have set up a huge list of filters using yahoo pipes which narrows down the amount I get from here. I&#8217;ve been thinking of giving up reading lifehacker though as I rarely find anything interesting on it any more. (if you are interested I have posted a screenshot and link to my filter at the bottom of this post.)</li>
+</ul>
+
+
+<p>Lastly one other thing you should check out for some inspiration, although its not exactly a blog; by which of course I mean its not a blog, is <a href="http://www.creativemornings.com/">creative mornings</a>. Creative mornings is a series of morning talks aimed at creative types which happen all over the world. I have found the New York ones to be especially good.</p>
+
+<p>I think everyone should follow some blogs on topics they are interested as I find they can provide: Information, News, Thought provoking material, New ideas, Inspiration, etcetera, etcetera, etcetera.</p>
+
+<p>If you don&#8217;t know about <a href="http://www.google.co.uk/search?q=rss">rss</a> then you should find out about it. I&#8217;m sure many people have written very good explanations on what it is and how to use it so I won&#8217;t bore you with the details.</p>
+
+<p>The only thing I will say is investigate <a href="http://reader.google.com">google reader</a>. I use google reader to keep my list of rss feeds and manage what I have read but I don&#8217;t usually read my feeds directly though it. There are many applications written which sync with google reader and provide a nicer reading experience. The app which I use (and personally love) is <a href="http://reederapp.com/">Reeder</a> which is available for Mac OSX and iOS on the mac/ios app stores respectively.</p>
+
+<p>For those of you who have no idea what an rss reader is, the following is an easy way to think about it. An rss reader is much like an email client only for blog posts rather than emails. You chose to follow the blog posts of a particular site and then any new blog posts by the site are sent to your rss reader as new unread items which you can then read at your leisure. The difference with a mail client and an rss reader is that read items in your rss reader are not kept.</p>
+
+<p>Thats all for now.</p>
+
+<p>Ciao!</p>
+
+<hr />
+
+<p>ps: link and screenshot below as promised
+<a href="http://pipes.yahoo.com/pipes/pipe.run?_id=6f6cee9611c7f1481d7e2d3434a3b8b8&amp;_render=rss">my filtered lifehacker rss feed</a> (be warned this will change over time as I add or remove filters)</p>
+
+<p>My filters, as you can see, I filter a large number of terms
+<a href="http://intiocean.github.com/images/content/20120308-lh-filter.png"><img src="http://intiocean.github.com/images/content/20120308-lh-filter.png" alt="my lifehacker filters" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quote from Steve Jobs 1997]]></title>
+    <link href="http://intiocean.github.com/blog/2012/03/04/quote-from-steve-jobs-1997/"/>
+    <updated>2012-03-04T20:52:00+00:00</updated>
+    <id>http://intiocean.github.com/blog/2012/03/04/quote-from-steve-jobs-1997</id>
+    <content type="html"><![CDATA[<blockquote><p>The line of code that a developer can write the fastest, the line of code that a developer can maintain the cheapest and the line of code that never breaks for the user is the line of code that the developer never had to write</p><footer><strong>Steve Jobs, Macworld expo in San Fansisco January 7 1997</strong> <cite><a href='http://www.youtube.com/watch?v=QhhFQ-3w5tE'>Video</a></cite></footer></blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Considering the next larger context #quote]]></title>
+    <link href="http://intiocean.github.com/blog/2012/02/11/considering-the-next-larger-context-quote/"/>
+    <updated>2012-02-11T09:55:00+00:00</updated>
+    <id>http://intiocean.github.com/blog/2012/02/11/considering-the-next-larger-context-quote</id>
+    <content type="html"><![CDATA[<blockquote><p>Always design a thing by considering it in its next larger context - a chair in a room, a room in a house, a house in an environment, an environment in a city plan.</p><footer><strong>Eliel Saarinen</strong> <cite>Growing Object-Oriented Software</cite></footer></blockquote>
+
+
+<p>I&#8217;m reading Growing Object-Oriented Software, Guided By Tests and found this quote in it. I would recommend this book to any developer, I&#8217;m learning much from it and I&#8217;ve only read five chapters so far!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quick Miso and Broccoli soup]]></title>
+    <link href="http://intiocean.github.com/blog/2011/11/28/quick-miso-and-broccoli-soup/"/>
+    <updated>2011-11-28T16:47:54+00:00</updated>
+    <id>http://intiocean.github.com/blog/2011/11/28/quick-miso-and-broccoli-soup</id>
+    <content type="html"><![CDATA[<p><img src="http://intiocean.github.com/images/content/20111128-miso.jpg" alt="Miso Soup" /></p>
+
+<h2>Ingredients (for 3):</h2>
+
+<ul>
+<li>A little vegetable oil (I use sunflower)</li>
+<li>A teaspoon of sesame oil</li>
+<li>2 Celery sticks</li>
+<li>1 Carrot</li>
+<li>1 Head of broccoli</li>
+<li>Miso paste</li>
+<li>Ginger</li>
+<li>Sesame seeds</li>
+<li>A dash of tabasco or tiny bit of chili in some other form</li>
+</ul>
+
+
+<h2>Recipe:</h2>
+
+<ul>
+<li>Slice the celery thinly so you get moon shaped slices.</li>
+<li>Peel and slice the carrot into half centimetre circles.</li>
+<li>Put some vegetable oil and the sesame oil in a large saucepan.</li>
+<li>Once the oil is hot, drop in the celery and carrot and saute for 5 minutes.</li>
+<li>Separate the broccoli into florets and add to the pan.</li>
+<li>let it all saute for a few more minutes while stirring regularly to ensure all the brocoli gets mixed in.</li>
+<li>slice some ginger as thin as you can and add to the pan. I would say 5 or so thin slices should do it.</li>
+<li>Boil some water separately in an electric kettle and then add it to the pan. About half a liter of water, enough to generously cover the rest of the vegetables.</li>
+<li> Add Miso paste to taste. 2-3 tablespoons should do the trick.</li>
+<li>Turn the soup off and toast some sesame seeds to sprinkle on top.</li>
+<li>Enjoy!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Adding my picture to the header]]></title>
+    <link href="http://intiocean.github.com/blog/2011/11/19/adding-my-picture-to-the-header/"/>
+    <updated>2011-11-19T17:07:00+00:00</updated>
+    <id>http://intiocean.github.com/blog/2011/11/19/adding-my-picture-to-the-header</id>
+    <content type="html"><![CDATA[<p>I just added my picture to the header of the site. I really like how it turned out. Here are before and after shots:</p>
+
+<p><img src="http://intiocean.github.com/images/content/20111119-before.jpg" alt="before" /></p>
+
+<p><img src="http://intiocean.github.com/images/content/20111119-after.jpg" alt="after" /></p>
+
+<p>Thanks to <a href="http://ruthhardy.co.uk">Ruth</a> for taking the picture. :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[On the design of this site]]></title>
+    <link href="http://intiocean.github.com/blog/2011/09/11/on-the-design-of-this-site/"/>
+    <updated>2011-09-11T20:51:00+01:00</updated>
+    <id>http://intiocean.github.com/blog/2011/09/11/on-the-design-of-this-site</id>
+    <content type="html"><![CDATA[<p>I have been contemplating redesigning my website. Recently however wordpress updated and now there is a new default theme which comes with it (twenty eleven). I rather like this new theme and can&#8217;t convince myself (yet) if I still should redesign&#8230;</p>
+
+<p>Does anyone have any thoughts on the matter?</p>
+
+<p>I would like to redesign it so that it doesn&#8217;t look like the stock wordpress theme but should I?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Inti's butter beans with rice]]></title>
+    <link href="http://intiocean.github.com/blog/2011/05/30/intis-butter-beans-with-rice/"/>
+    <updated>2011-05-30T21:37:00+01:00</updated>
+    <id>http://intiocean.github.com/blog/2011/05/30/intis-butter-beans-with-rice</id>
+    <content type="html"><![CDATA[<h2>Ingredients: (for 2)</h2>
+
+<h3>For the rice:</h3>
+
+<ul>
+<li>A little oil (personally I like sunflower oil for this)</li>
+<li>1 large Clove of Garlic (Crushed)</li>
+<li>1 cup of Basmati Rice (You may not need this much - I do love rice)</li>
+<li>1.5 cups of Water</li>
+<li>salt to taste (~1/3 tsb)</li>
+</ul>
+
+
+<h3>For the Beans:</h3>
+
+<ul>
+<li>A little oil</li>
+<li>1 medium onion (chopped)</li>
+<li>1/2 tsb Cumin Seeds</li>
+<li>~15 Cherry Tomatoes</li>
+<li>1 tin of Butter Beans</li>
+<li>1 tbsp Vegetable Stock</li>
+<li>1/2 cup of Water</li>
+<li>salt to taste</li>
+<li>Yogurt (Personally I like greek yogurt but any plain yogurt will do)</li>
+</ul>
+
+
+<h2>Recipe:</h2>
+
+<h3>For the rice:</h3>
+
+<ul>
+<li>Boil some water</li>
+<li>Heat the oil and add the crushed garlic and stir</li>
+<li>Once the garlic is golden (this will be very quick) add the water and the salt</li>
+<li>Add the rice and cover</li>
+<li>Once it starts boiling turn down the heat as low as possible and leave to cook for ~20 minutes. After 20 minutes taste the rice to see if it is cooked. If the water dries up before the rice is cooked then add a small amount more. Note: you want the water to dry up completely at the same time as the rice becomes cooked!</li>
+</ul>
+
+
+<h3>For the Beans:</h3>
+
+<p>Once the rice is on start the beans.</p>
+
+<ul>
+<li>Heat the oil and add the chopped onion</li>
+<li>Let the onion simmer stirring occasionally until golden</li>
+<li>Add the cumin seeds and stir for 30 seconds or so</li>
+<li>Add the cherry tomatoes (whole!)</li>
+<li>Drain and rinse the tin of butter beans and then add to the pot.</li>
+<li>Add a little water (~1/2 a cup)</li>
+<li>Add the vegetable stock and salt</li>
+<li>Leave to cook on a medium heat stirring occasionally until the cherry tomatoes have exploded and made the beans tasty.</li>
+</ul>
+
+
+<p>Hopefully by now the rice is just about done and you can eat it :)
+Serve with the yogurt which although you might not think would go that well with the tomatoey beans it works a treat.
+Enjoy!<br/>
+Note: The measurements might be a tad off as I usually measure to eye.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[On Learning Basics of Graphic Design]]></title>
+    <link href="http://intiocean.github.com/blog/2011/03/12/learning-basics-of-graphic-design/"/>
+    <updated>2011-03-12T19:33:00+00:00</updated>
+    <id>http://intiocean.github.com/blog/2011/03/12/learning-basics-of-graphic-design</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve wanted to learn the basics of graphic design for a long time. I even bought <a href="http://www.thamesandhudson.com/9780500285268.html">The Graphic Design School</a> as I thought it would help me get on my way.</p>
+
+<p>After letting it sit on the shelf for a long time and gather dust I have finally taken it down and plan to use it alongside the vast amount of resources available around the web. (I will link to some which I have found useful/interesting below.)</p>
+
+<ul>
+<li><p>Lifehacker - <a href="http://lifehacker.com/#!5739492/learn-the-basics-of-design-this-weekend">Learn the basics of Design</a></p></li>
+<li><p><a href="http://www.fontshop.com/education/">Meet Your Type</a> I found this to be a good introduction to typography. It gives an overview of its main aspects, although there is not much detail in the descriptions.</p></li>
+<li><p><a href="http://www.creativemornings.com">Creative mornings</a> - A series of half hour talks given by designers about anything. I&#8217;ve been really enjoying these - I&#8217;m finding them inspirational and generally thought provoking.</p></li>
+</ul>
+
+
+<p>I think the process of learning more about design in general is going to be a slow one but I&#8217;m glad I&#8217;ve made a start. I hope (and think) that it will prove to be a valuable skill to have as it can influence most of the choices I make thought my life. I will post more thoughts on design when they occur to me but for now I leave you with the following question which is a rephrasing of something I heard. <em>Do you think it is possible to design/make/produce anything that everybody really loves or is it a case of if no one hates it no one is likely to love it either?</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Post one]]></title>
+    <link href="http://intiocean.github.com/blog/2011/02/16/post-one/"/>
+    <updated>2011-02-16T20:22:00+00:00</updated>
+    <id>http://intiocean.github.com/blog/2011/02/16/post-one</id>
+    <content type="html"><![CDATA[<p>I know you are all thinking &#8220;this is the second post, not the first&#8221; but I have decided to call it post one for a number of reasons.</p>
+
+<p>Firstly. The geeky reason: we all know (or do we) that indices start at zero therefore this post has the index one.</p>
+
+<p>Secondly. The non-geeky reason: The first post was automatically generated and not actually created by me so this is in actual fact my first post.</p>
+
+<p>Personally, I prefer the geeky reason.</p>
+
+<p>Before I ramble on too much I would like to talk a little about how I intend to use this site.</p>
+
+<p>I plan to use this site to post thoughts, rambles and perhaps the occasional recipe. I don&#8217;t expect to post very often, in fact I expect my posts will be few and far between. The posts on here will be as much for my own reference as anyone else&#8217;s, however if you stumble across one of my posts then I hope you have enjoyed reading.</p>
+
+<p>Thats all for now,</p>
+
+<p>Inti</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world!]]></title>
+    <link href="http://intiocean.github.com/blog/2011/02/16/hello-world/"/>
+    <updated>2011-02-16T18:21:00+00:00</updated>
+    <id>http://intiocean.github.com/blog/2011/02/16/hello-world</id>
+    <content type="html"><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content>
+  </entry>
+  
+</feed>
