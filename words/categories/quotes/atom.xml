@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Quotes | Thoughts and other words]]></title>
+  <link href="http://intiocean.github.com/words/categories/quotes/atom.xml" rel="self"/>
+  <link href="http://intiocean.github.com/"/>
+  <updated>2013-02-04T22:50:48+00:00</updated>
+  <id>http://intiocean.github.com/</id>
+  <author>
+    <name><![CDATA[Inti Ocean]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Quote from Steve Jobs 1997]]></title>
+    <link href="http://intiocean.github.com/words/2012/03/quote-from-steve-jobs-1997/"/>
+    <updated>2012-03-04T20:52:00+00:00</updated>
+    <id>http://intiocean.github.com/words/2012/03/quote-from-steve-jobs-1997</id>
+    <content type="html"><![CDATA[<p><blockquote><p>The line of code that a developer can write the fastest, the line of code that a developer can maintain the cheapest and the line of code that never breaks for the user is the line of code that the developer never had to write</p><footer><strong>Steve Jobs, Macworld expo in San Fansisco January 7 1997</strong> <cite><a href='http://www.youtube.com/watch?v=QhhFQ-3w5tE'>Video</a></cite></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Considering the next larger context #quote]]></title>
+    <link href="http://intiocean.github.com/words/2012/02/considering-the-next-larger-context-quote/"/>
+    <updated>2012-02-11T09:55:00+00:00</updated>
+    <id>http://intiocean.github.com/words/2012/02/considering-the-next-larger-context-quote</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Always design a thing by considering it in its next larger context - a chair in a room, a room in a house, a house in an environment, an environment in a city plan.</p><footer><strong>Eliel Saarinen</strong> <cite>Growing Object-Oriented Software</cite></footer></blockquote></p>
+
+<p>I'm reading Growing Object-Oriented Software, Guided By Tests and found this quote in it. I would recommend this book to any developer, I'm learning much from it and I've only read five chapters so far!</p>
+]]></content>
+  </entry>
+  
+</feed>
