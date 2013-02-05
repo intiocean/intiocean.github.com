@@ -12,6 +12,5 @@ My aim for this website is to collect links, thoughts and images that capture my
 If you want to know more about me you can find me around the web by running a web search for my name!
 
 Thats all for now,
-never forget to have fun!
 
 Inti
