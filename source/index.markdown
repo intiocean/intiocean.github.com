@@ -3,11 +3,15 @@ layout: page
 title: "Inti Ocean"
 footer: true
 ---
+Hi,
 
-I'm a Quant Developer / Research Technologist, Photographer and Designer.
+I'm a Quantitative Developer, Photographer and Designer who lives and works in London. My favorite time of day is the dawn although I don't often get up in time to see it.
 
-The aim of this site is to collect links, thoughts, images and other things which capture my intrest.
+My aim for this website is to collect links, thoughts, images which capture my interest so that I can refer back to them another day or maybe not until I'm old and gray.
 
-I currently work in the city of London as a quantitative developer. In my work and play I use various technologies including: Python, Java, HTML and Oracle.
+If you want to know more about me you can find me around the web by running a web search for my name!
 
-You can find me on various places around the web by running a web search on my name!
+Thats all for now,
+never forget to have fun!
+
+Inti
