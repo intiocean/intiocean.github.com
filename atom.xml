@@ -4,7 +4,7 @@
   <title><![CDATA[Thoughts and other words]]></title>
   <link href="http://intiocean.github.com/atom.xml" rel="self"/>
   <link href="http://intiocean.github.com/"/>
-  <updated>2013-02-05T22:43:50+00:00</updated>
+  <updated>2013-02-09T11:52:38+00:00</updated>
   <id>http://intiocean.github.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
@@ -14,8 +14,29 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Tips from a design technologist]]></title>
+    
+      <link href="http://intiocean.github.com/words/2013/02/tips-from-a-developer-slash-designer/"/>
+    
+    <updated>2013-02-06T21:05:00+00:00</updated>
+    <id>http://intiocean.github.com/words/2013/02/tips-from-a-developer-slash-designer</id>
+    <content type="html"><![CDATA[<p>I was reading an article about becoming a designer and some of the points resonated with me. I found the article via <a href="http://hackdesign.org">hack design</a>.</p>
+
+<blockquote><p>Tip #3: Design everything you do</p><p>&#8230;Your emails should be written/composed clearly and beautifully. Your conversations with individuals should be designed through how you listen, how you maintain eye contact, how you respond (both spoken and unspoken). Everything you do should have a reason, no matter how small. Design requires constant practice, this is a great way to keep growing.</p></blockquote>
+
+
+
+
+<blockquote><p>Tip #7: Focus on defining and solving problems</p><p>A lot of the work you see at design showcase websites are great examples of well executed decorations that lack substance. The people that can perform this type of work are countless and the skills highly commoditized. Avoid pixel-pushing at all costs – your job is to solve problems. View your work through that lens at all times. Always know what problems you are trying to solve while in the process of designing (e.g., people are having a hard time knowing where to go next in a flow, or, the current visual design does not reflect the mood of our brand). Good designers solve problems, great ones ensure they are solving the right ones. Accurately defining the problem goes a long way towards solving it.</p></blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Update]]></title>
-    <link href="http://intiocean.github.com/words/2013/02/update/"/>
+    
+      <link href="http://intiocean.github.com/words/2013/02/update/"/>
+    
     <updated>2013-02-05T21:31:00+00:00</updated>
     <id>http://intiocean.github.com/words/2013/02/update</id>
     <content type="html"><![CDATA[<p>It has been a while since I last posted however its my aim to post more often than I have in the past.</p>
@@ -26,7 +47,9 @@
   
   <entry>
     <title type="html"><![CDATA[octopress]]></title>
-    <link href="http://intiocean.github.com/words/2012/04/octopress/"/>
+    
+      <link href="http://intiocean.github.com/words/2012/04/octopress/"/>
+    
     <updated>2012-04-09T14:37:00+01:00</updated>
     <id>http://intiocean.github.com/words/2012/04/octopress</id>
     <content type="html"><![CDATA[<p>I&#8217;m trying out <a href="http://octopress.org">octopress</a>.</p>
@@ -37,7 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Blogs I follow]]></title>
-    <link href="http://intiocean.github.com/words/2012/03/blogs-i-follow/"/>
+    
+      <link href="http://intiocean.github.com/words/2012/03/blogs-i-follow/"/>
+    
     <updated>2012-03-08T22:05:00+00:00</updated>
     <id>http://intiocean.github.com/words/2012/03/blogs-i-follow</id>
     <content type="html"><![CDATA[<p>Below are a few of my favorite blogs which I follow.</p>
@@ -76,7 +101,9 @@
   
   <entry>
     <title type="html"><![CDATA[Quote from Steve Jobs 1997]]></title>
-    <link href="http://intiocean.github.com/words/2012/03/quote-from-steve-jobs-1997/"/>
+    
+      <link href="http://intiocean.github.com/words/2012/03/quote-from-steve-jobs-1997/"/>
+    
     <updated>2012-03-04T20:52:00+00:00</updated>
     <id>http://intiocean.github.com/words/2012/03/quote-from-steve-jobs-1997</id>
     <content type="html"><![CDATA[<blockquote><p>The line of code that a developer can write the fastest, the line of code that a developer can maintain the cheapest and the line of code that never breaks for the user is the line of code that the developer never had to write</p><footer><strong>Steve Jobs, Macworld expo in San Fansisco January 7 1997</strong> <cite><a href='http://www.youtube.com/watch?v=QhhFQ-3w5tE'>Video</a></cite></footer></blockquote>
@@ -86,7 +113,9 @@
   
   <entry>
     <title type="html"><![CDATA[Considering the next larger context #quote]]></title>
-    <link href="http://intiocean.github.com/words/2012/02/considering-the-next-larger-context-quote/"/>
+    
+      <link href="http://intiocean.github.com/words/2012/02/considering-the-next-larger-context-quote/"/>
+    
     <updated>2012-02-11T09:55:00+00:00</updated>
     <id>http://intiocean.github.com/words/2012/02/considering-the-next-larger-context-quote</id>
     <content type="html"><![CDATA[<blockquote><p>Always design a thing by considering it in its next larger context - a chair in a room, a room in a house, a house in an environment, an environment in a city plan.</p><footer><strong>Eliel Saarinen</strong> <cite>Growing Object-Oriented Software</cite></footer></blockquote>
@@ -98,7 +127,9 @@
   
   <entry>
     <title type="html"><![CDATA[Quick Miso and Broccoli soup]]></title>
-    <link href="http://intiocean.github.com/words/2011/11/quick-miso-and-broccoli-soup/"/>
+    
+      <link href="http://intiocean.github.com/words/2011/11/quick-miso-and-broccoli-soup/"/>
+    
     <updated>2011-11-28T16:47:54+00:00</updated>
     <id>http://intiocean.github.com/words/2011/11/quick-miso-and-broccoli-soup</id>
     <content type="html"><![CDATA[<p><img src="http://intiocean.github.com/images/content/20111128-miso.jpg" alt="Miso Soup" /></p>
@@ -139,7 +170,9 @@
   
   <entry>
     <title type="html"><![CDATA[Adding my picture to the header]]></title>
-    <link href="http://intiocean.github.com/words/2011/11/adding-my-picture-to-the-header/"/>
+    
+      <link href="http://intiocean.github.com/words/2011/11/adding-my-picture-to-the-header/"/>
+    
     <updated>2011-11-19T17:07:00+00:00</updated>
     <id>http://intiocean.github.com/words/2011/11/adding-my-picture-to-the-header</id>
     <content type="html"><![CDATA[<p>I just added my picture to the header of the site. I really like how it turned out. Here are before and after shots:</p>
@@ -154,7 +187,9 @@
   
   <entry>
     <title type="html"><![CDATA[On the design of this site]]></title>
-    <link href="http://intiocean.github.com/words/2011/09/on-the-design-of-this-site/"/>
+    
+      <link href="http://intiocean.github.com/words/2011/09/on-the-design-of-this-site/"/>
+    
     <updated>2011-09-11T20:51:00+01:00</updated>
     <id>http://intiocean.github.com/words/2011/09/on-the-design-of-this-site</id>
     <content type="html"><![CDATA[<p>I have been contemplating redesigning my website. Recently however wordpress updated and now there is a new default theme which comes with it (twenty eleven). I rather like this new theme and can&#8217;t convince myself (yet) if I still should redesign&#8230;</p>
@@ -167,7 +202,9 @@
   
   <entry>
     <title type="html"><![CDATA[Inti's butter beans with rice]]></title>
-    <link href="http://intiocean.github.com/words/2011/05/intis-butter-beans-with-rice/"/>
+    
+      <link href="http://intiocean.github.com/words/2011/05/intis-butter-beans-with-rice/"/>
+    
     <updated>2011-05-30T21:37:00+01:00</updated>
     <id>http://intiocean.github.com/words/2011/05/intis-butter-beans-with-rice</id>
     <content type="html"><![CDATA[<h2>Ingredients: (for 2)</h2>
@@ -236,7 +273,9 @@ Note: The measurements might be a tad off as I usually measure to eye.</p>
   
   <entry>
     <title type="html"><![CDATA[On Learning Basics of Graphic Design]]></title>
-    <link href="http://intiocean.github.com/words/2011/03/learning-basics-of-graphic-design/"/>
+    
+      <link href="http://intiocean.github.com/words/2011/03/learning-basics-of-graphic-design/"/>
+    
     <updated>2011-03-12T19:33:00+00:00</updated>
     <id>http://intiocean.github.com/words/2011/03/learning-basics-of-graphic-design</id>
     <content type="html"><![CDATA[<p>I&#8217;ve wanted to learn the basics of graphic design for a long time. I even bought <a href="http://www.thamesandhudson.com/9780500285268.html">The Graphic Design School</a> as I thought it would help me get on my way.</p>
@@ -256,7 +295,9 @@ Note: The measurements might be a tad off as I usually measure to eye.</p>
   
   <entry>
     <title type="html"><![CDATA[Post one]]></title>
-    <link href="http://intiocean.github.com/words/2011/02/post-one/"/>
+    
+      <link href="http://intiocean.github.com/words/2011/02/post-one/"/>
+    
     <updated>2011-02-16T20:22:00+00:00</updated>
     <id>http://intiocean.github.com/words/2011/02/post-one</id>
     <content type="html"><![CDATA[<p>I know you are all thinking &#8220;this is the second post, not the first&#8221; but I have decided to call it post one for a number of reasons.</p>
@@ -279,7 +320,9 @@ Note: The measurements might be a tad off as I usually measure to eye.</p>
   
   <entry>
     <title type="html"><![CDATA[Hello world!]]></title>
-    <link href="http://intiocean.github.com/words/2011/02/hello-world/"/>
+    
+      <link href="http://intiocean.github.com/words/2011/02/hello-world/"/>
+    
     <updated>2011-02-16T18:21:00+00:00</updated>
     <id>http://intiocean.github.com/words/2011/02/hello-world</id>
     <content type="html"><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
