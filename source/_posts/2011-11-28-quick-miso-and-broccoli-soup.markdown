@@ -1,10 +1,9 @@
 ---
-date: '2011-11-28 16:47:54'
 layout: post
-slug: quick-miso-and-broccoli-soup
-status: publish
 title: Quick Miso and Broccoli soup
-wordpress_id: '104'
+date: 2011-11-28 16:47
+categories:
+- recipes
 ---
 
 ![Miso Soup](/images/content/20111128-miso.jpg)

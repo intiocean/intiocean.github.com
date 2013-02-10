@@ -3,11 +3,7 @@ layout: post
 title: Blogs I follow
 date: 2012-03-08 22:05
 categories:
-- Rambles
-tags:
-- blogs
-- inspiration
-- rss
+- rambles
 ---
 
 Below are a few of my favorite blogs which I follow.

@@ -2,7 +2,6 @@
 layout: post
 title: "Tips from a design technologist"
 date: 2013-02-09 14:05
-comments: true
 categories:
 - design
 - linked

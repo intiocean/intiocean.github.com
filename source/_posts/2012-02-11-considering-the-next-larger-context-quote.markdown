@@ -3,12 +3,8 @@ layout: post
 title: 'Considering the next larger context #quote'
 date: 2012-02-11 09:55
 categories:
-- Quotes
-tags:
-- books
-- design
-- Quote
-- recommendations
+- quotes
+- programming
 ---
 
 {% blockquote Eliel Saarinen, Growing Object-Oriented Software, Guided By Tests %}

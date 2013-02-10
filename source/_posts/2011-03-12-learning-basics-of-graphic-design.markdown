@@ -3,11 +3,7 @@ layout: post
 title: On Learning Basics of Graphic Design
 date: 2011-03-12 19:33
 categories:
-- Design
-tags:
-- creative
 - design
-- graphic design
 ---
 
 I've wanted to learn the basics of graphic design for a long time. I even bought [The Graphic Design School](http://www.thamesandhudson.com/9780500285268.html) as I thought it would help me get on my way.

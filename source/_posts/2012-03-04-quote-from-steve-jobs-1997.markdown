@@ -3,13 +3,8 @@ layout: post
 title: Quote from Steve Jobs 1997
 date: 2012-03-04 20:52
 categories:
-- Programming
-- Quotes
-tags:
-- apple
-- jobs
 - programming
-- Quote
+- quotes
 ---
 
 {% blockquote Steve Jobs, Macworld expo in San Fansisco January 7 1997 http://www.youtube.com/watch?v=QhhFQ-3w5tE video %}

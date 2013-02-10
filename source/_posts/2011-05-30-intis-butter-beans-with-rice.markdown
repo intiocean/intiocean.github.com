@@ -4,12 +4,6 @@ title: Inti's butter beans with rice
 date: 2011-05-30 21:37
 categories:
 - recipes
-tags:
-- butter beans
-- delicious
-- food
-- recipe
-- rice
 ---
 
 ##Ingredients: (for 2)

@@ -2,7 +2,8 @@
 layout: post
 title: "octopress"
 date: 2012-04-09 14:37
-categories: 
+categories:
+- meta
 ---
 
 I'm trying out [octopress](http://octopress.org). 

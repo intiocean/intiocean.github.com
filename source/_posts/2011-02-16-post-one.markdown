@@ -3,7 +3,7 @@ layout: post
 title: Post one
 date: 2011-02-16 20:22
 categories:
-- Rambles
+- rambles
 ---
 
 I know you are all thinking "this is the second post, not the first" but I have decided to call it post one for a number of reasons.
