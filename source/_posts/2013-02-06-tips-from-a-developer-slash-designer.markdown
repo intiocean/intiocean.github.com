@@ -3,7 +3,9 @@ layout: post
 title: "Tips from a design technologist"
 date: 2013-02-09 14:05
 comments: true
-categories: design, linked
+categories:
+- design
+- linked
 external-url: http://somerandomdude.com/2012/01/10/transition-from-development-to-design/
 ---
 I was reading an article about becoming a designer and some of the points resonated with me. (via [hack design](http://hackdesign.org))
