@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design, | Thoughts and other words]]></title>
+  <link href="http://intiocean.github.com/words/categories/design-/atom.xml" rel="self"/>
+  <link href="http://intiocean.github.com/"/>
+  <updated>2013-02-10T11:31:19+00:00</updated>
+  <id>http://intiocean.github.com/</id>
+  <author>
+    <name><![CDATA[Inti Ocean]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tips from a design technologist]]></title>
+    <link href="http://intiocean.github.com/words/2013/02/tips-from-a-developer-slash-designer/"/>
+    <updated>2013-02-09T14:05:00+00:00</updated>
+    <id>http://intiocean.github.com/words/2013/02/tips-from-a-developer-slash-designer</id>
+    <content type="html"><![CDATA[<p>I was reading an article about becoming a designer and some of the points resonated with me. (via <a href="http://hackdesign.org">hack design</a>)</p>
+
+<p><blockquote><p>Tip #3: Design everything you do</p></p><p><p>...Your emails should be written/composed clearly and beautifully. Your conversations with individuals should be designed through how you listen, how you maintain eye contact, how you respond (both spoken and unspoken). Everything you do should have a reason, no matter how small. Design requires constant practice, this is a great way to keep growing.</p></blockquote></p>
+
+<p>I don't think its possible to design <em>everything</em> but if we keep design in the back of our minds at all times we are more likely to be able to spot problems and design great solutions for them.</p>
+
+<p><blockquote><p>Tip #7: Focus on defining and solving problems</p></p><p><p>A lot of the work you see at design showcase websites are great examples of well executed decorations that lack substance. The people that can perform this type of work are countless and the skills highly commoditized. Avoid pixel-pushing at all costs – your job is to solve problems. View your work through that lens at all times. Always know what problems you are trying to solve while in the process of designing (e.g., people are having a hard time knowing where to go next in a flow, or, the current visual design does not reflect the mood of our brand). Good designers solve problems, great ones ensure they are solving the right ones. Accurately defining the problem goes a long way towards solving it.</p></blockquote></p>
+
+<p>This is a no brainer but its something which I don't often think about.</p>
+
+<p>I often see stunning designs and don't stop to consider what solution they are actually solving (if any) before wishing my designs were as polished. This then leads me down the road of never releasing anything because it isn't as nice as said design.</p>
+
+<p>The reason this tip resonated with me was that I constantly need to remind myself the importance of of solving a problem rather than creating something beautiful which may not actually achieve what I want. Writing this down it seems so damned obvious but its something I often forget.</p>
+]]></content>
+  </entry>
+  
+</feed>
