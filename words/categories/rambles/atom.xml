@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Rambles | Thoughts and other words]]></title>
+  <title><![CDATA[Category: rambles | Thoughts and other words]]></title>
   <link href="http://intiocean.github.com/words/categories/rambles/atom.xml" rel="self"/>
   <link href="http://intiocean.github.com/"/>
-  <updated>2013-02-10T11:33:05+00:00</updated>
+  <updated>2013-02-10T11:45:50+00:00</updated>
   <id>http://intiocean.github.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
