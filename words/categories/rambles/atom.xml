@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rambles | Thoughts and other words]]></title>
   <link href="http://intiocean.github.com/words/categories/rambles/atom.xml" rel="self"/>
   <link href="http://intiocean.github.com/"/>
-  <updated>2013-02-10T11:47:12+00:00</updated>
+  <updated>2013-02-18T20:35:48+00:00</updated>
   <id>http://intiocean.github.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
@@ -21,20 +21,19 @@
     <content type="html"><![CDATA[<p>Below are a few of my favorite blogs which I follow.</p>
 
 <ul>
-<li><a href="http://daringfireball.net/">daring fireball</a> is a apple centric blog although John Gruber also writes about other businesses occasionally though usually in comparison with apple. This is a great blog for apple news.</li>
-<li><a href="http://www.swiss-miss.com/">swiss miss</a> is a swiss designers blog. Tina Roth Eisenberg lives in NYC and reblogs cool and interesting designs. One thing I especially like about this blog is that it is centered around images with a few words accompanying each image.</li>
-<li><a href="http://www.farnamstreetblog.com/">farnam street</a> is a blog which have recently started following but it deserves a mention as most things I have read from it have been interesting and thought provoking.</li>
-<li>I used to enjoy following <a href="http://lifehacker.com/">lifehacker</a> but these days I find its just too busy and much of what they post is not interesting to me so I have set up a huge list of filters using yahoo pipes which narrows down the amount I get from here. I've been thinking of giving up reading lifehacker though as I rarely find anything interesting on it any more. (if you are interested I have posted a screenshot and link to my filter at the bottom of this post.)</li>
+  <li><a href="http://daringfireball.net/">daring fireball</a> is a apple centric blog although John Gruber also writes about other businesses occasionally though usually in comparison with apple. This is a great blog for apple news.</li>
+  <li><a href="http://www.swiss-miss.com/">swiss miss</a> is a swiss designers blog. Tina Roth Eisenberg lives in NYC and reblogs cool and interesting designs. One thing I especially like about this blog is that it is centered around images with a few words accompanying each image.</li>
+  <li><a href="http://www.farnamstreetblog.com/">farnam street</a> is a blog which have recently started following but it deserves a mention as most things I have read from it have been interesting and thought provoking.</li>
+  <li>I used to enjoy following <a href="http://lifehacker.com/">lifehacker</a> but these days I find its just too busy and much of what they post is not interesting to me so I have set up a huge list of filters using yahoo pipes which narrows down the amount I get from here. I’ve been thinking of giving up reading lifehacker though as I rarely find anything interesting on it any more. (if you are interested I have posted a screenshot and link to my filter at the bottom of this post.)</li>
 </ul>
-
 
 <p>Lastly one other thing you should check out for some inspiration, although its not exactly a blog; by which of course I mean its not a blog, is <a href="http://www.creativemornings.com/">creative mornings</a>. Creative mornings is a series of morning talks aimed at creative types which happen all over the world. I have found the New York ones to be especially good.</p>
 
 <p>I think everyone should follow some blogs on topics they are interested as I find they can provide: Information, News, Thought provoking material, New ideas, Inspiration, etcetera, etcetera, etcetera.</p>
 
-<p>If you don't know about <a href="http://www.google.co.uk/search?q=rss">rss</a> then you should find out about it. I'm sure many people have written very good explanations on what it is and how to use it so I won't bore you with the details.</p>
+<p>If you don’t know about <a href="http://www.google.co.uk/search?q=rss">rss</a> then you should find out about it. I’m sure many people have written very good explanations on what it is and how to use it so I won’t bore you with the details.</p>
 
-<p>The only thing I will say is investigate <a href="http://reader.google.com">google reader</a>. I use google reader to keep my list of rss feeds and manage what I have read but I don't usually read my feeds directly though it. There are many applications written which sync with google reader and provide a nicer reading experience. The app which I use (and personally love) is <a href="http://reederapp.com/">Reeder</a> which is available for Mac OSX and iOS on the mac/ios app stores respectively.</p>
+<p>The only thing I will say is investigate <a href="http://reader.google.com">google reader</a>. I use google reader to keep my list of rss feeds and manage what I have read but I don’t usually read my feeds directly though it. There are many applications written which sync with google reader and provide a nicer reading experience. The app which I use (and personally love) is <a href="http://reederapp.com/">Reeder</a> which is available for Mac OSX and iOS on the mac/ios app stores respectively.</p>
 
 <p>For those of you who have no idea what an rss reader is, the following is an easy way to think about it. An rss reader is much like an email client only for blog posts rather than emails. You chose to follow the blog posts of a particular site and then any new blog posts by the site are sent to your rss reader as new unread items which you can then read at your leisure. The difference with a mail client and an rss reader is that read items in your rss reader are not kept.</p>
 
@@ -57,7 +56,7 @@
     <link href="http://intiocean.github.com/words/2011/02/post-one/"/>
     <updated>2011-02-16T20:22:00+00:00</updated>
     <id>http://intiocean.github.com/words/2011/02/post-one</id>
-    <content type="html"><![CDATA[<p>I know you are all thinking "this is the second post, not the first" but I have decided to call it post one for a number of reasons.</p>
+    <content type="html"><![CDATA[<p>I know you are all thinking “this is the second post, not the first” but I have decided to call it post one for a number of reasons.</p>
 
 <p>Firstly. The geeky reason: we all know (or do we) that indices start at zero therefore this post has the index one.</p>
 
@@ -67,7 +66,7 @@
 
 <p>Before I ramble on too much I would like to talk a little about how I intend to use this site.</p>
 
-<p>I plan to use this site to post thoughts, rambles and perhaps the occasional recipe. I don't expect to post very often, in fact I expect my posts will be few and far between. The posts on here will be as much for my own reference as anyone else's, however if you stumble across one of my posts then I hope you have enjoyed reading.</p>
+<p>I plan to use this site to post thoughts, rambles and perhaps the occasional recipe. I don’t expect to post very often, in fact I expect my posts will be few and far between. The posts on here will be as much for my own reference as anyone else’s, however if you stumble across one of my posts then I hope you have enjoyed reading.</p>
 
 <p>Thats all for now,</p>
 
