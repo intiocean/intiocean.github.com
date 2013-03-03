@@ -5,6 +5,7 @@ date: 2013-02-24 13:24
 comments: true
 categories: 
 - design
+published: false
 ---
 I thought I would write a list of things which I believe in with a little explanation of each point.
 {% blockquote %}Simplicity where possible{% endblockquote %}
