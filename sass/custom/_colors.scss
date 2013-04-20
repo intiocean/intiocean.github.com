@@ -45,19 +45,18 @@
 // ////////////////////////////////////////
 // change the background colors
 //
-$main-bg: #f8f8f8 !default;
-$page-bg: $main-bg !default;
+$main-bg: #fff;
 html {
-  background: $main-bg !important;
+  background: $main-bg;
 }
 body {
   > header {
-    background: $main-bg !important;
+    background: $main-bg;
   }
   > div {
-    background: $main-bg !important;
+    background: $main-bg;
     > div {
-      background: $main-bg !important;
+      background: $main-bg;
       }
   }
 }
@@ -67,7 +66,7 @@ body {
 // change the header colors
 //
 $header-bg: $main-bg;
-$title-color: #333 !default;
+$title-color: hsl(0, 0, 20); //#333 !default;
 //$text-color: #333 !default;
 //$text-color-light: #777 !default;
 //$subtitle-color: darken($header-bg, 58);
