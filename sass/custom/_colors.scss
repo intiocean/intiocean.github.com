@@ -23,6 +23,7 @@
 // change the background colors
 // --------------------------------------
 $main-bg: #fff;
+// The below need the important directive to get rid of the noise.png overlay
 html {
   background: $main-bg !important;
 }
