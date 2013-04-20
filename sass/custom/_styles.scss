@@ -8,21 +8,10 @@ html {
 body {
   font-size: 1.5em;
   h1 { font-size: 2.6em; line-height: 1.2em; }
-  > nav {
-    form {
-      .search {
-        font-family: $sans;
-        @include border-radius(0);
-        border: 0px;
-        &:focus {
-        border-color: $main-bg;
-        @include box-shadow($main-bg 0 0 4px, $main-bg 0 0 3px inset);
-      }
-      }
-    }
-  }
   > div {
+    background: $main-bg;
     > div {
+      background: $main-bg;
       border-right: none;
     }
   }
