@@ -14,83 +14,59 @@
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
 
-
-/* To use the light Solarized highlighting theme uncomment the following line */
-//$solarized: light;
-
-/* If you want to tweak the Solarized colors you can do that here */
-//$base03:          #002b36; //darkest blue
-//$base02:          #073642; //dark blue
-//$base01:          #586e75; //darkest gray
-//$base00:          #657b83; //dark gray
-//$base0:           #839496; //medium gray
-//$base1:           #93a1a1; //medium light gray
-//$base2:           #eee8d5; //cream
-//$base3:           #fdf6e3; //white
-//$solar-yellow:    #b58900;
-//$solar-orange:    #cb4b16;
-//$solar-red:       #dc322f;
-//$solar-magenta:   #d33682;
-//$solar-violet:    #6c71c4;
-//$solar-blue:      #268bd2;
-//$solar-cyan:      #2aa198;
-//$solar-green:     #859900;
-
-
 /* Non highlighted code colors */
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
 
-// ////////////////////////////////////////
+// --------------------------------------
 // change the background colors
-//
+// --------------------------------------
 $main-bg: #fff;
 html {
-  background: $main-bg;
+  background: $main-bg !important;
 }
 body {
   > header {
-    background: $main-bg;
+    background: $main-bg !important;
   }
   > div {
-    background: $main-bg;
+    background: $main-bg !important;
     > div {
-      background: $main-bg;
+      background: $main-bg !important;
       }
   }
 }
 
 
-// ////////////////////////////////////////
+// --------------------------------------
 // change the header colors
-//
+// --------------------------------------
 $header-bg: $main-bg;
-$title-color: hsl(0, 0, 20); //#333 !default;
-//$text-color: #333 !default;
+$title-color: hsl(0, 0, 20);
+$text-color: $title-color;
 //$text-color-light: #777 !default;
 //$subtitle-color: darken($header-bg, 58);
 $subtitle-color: #aaa;
 
 
-// ////////////////////////////////////////
+// --------------------------------------
 // change the nav bar
-//
+// --------------------------------------
 $nav-bg: $main-bg;
 $nav-bg-front: $main-bg;
 $nav-bg-back: $main-bg;
-$nav-color: darken($nav-bg, 78) !default;
-$nav-color-hover: $nav-color !default;
-//$nav-border: darken($nav-bg, 50) !default;
-$nav-border-top: $nav-bg; //darken($nav-bg, 33) !default;
-$nav-border-bottom: darken($nav-bg, 33) !default;
-$nav-border-left: darken($nav-bg, 11) !default;
+$nav-color: darken($nav-bg, 78);
+$nav-color-hover: $nav-color;
+$nav-border-top: $nav-bg;
+$nav-border-bottom: darken($nav-bg, 33);
+$nav-border-left: darken($nav-bg, 11);
 
 
 
-// ////////////////////////////////////////
+// --------------------------------------
 // change the footer
-//
+// --------------------------------------
 $footer-color: $main-bg !default;
 $footer-bg: $main-bg !default;
 $footer-bg-front: $main-bg !default;
