@@ -23,21 +23,6 @@
 // change the background colors
 // --------------------------------------
 $main-bg: #fff;
-// The below need the important directive to get rid of the noise.png overlay
-html {
-  background: $main-bg !important;
-}
-body {
-  > header {
-    background: $main-bg !important;
-  }
-  > div {
-    background: $main-bg !important;
-    > div {
-      background: $main-bg !important;
-      }
-  }
-}
 
 
 // --------------------------------------
@@ -46,9 +31,7 @@ body {
 $header-bg: $main-bg;
 $title-color: hsl(0, 0, 20);
 $text-color: $title-color;
-//$text-color-light: #777 !default;
-//$subtitle-color: darken($header-bg, 58);
-$subtitle-color: #aaa;
+$subtitle-color: lighten($title-color, 40);
 
 
 // --------------------------------------

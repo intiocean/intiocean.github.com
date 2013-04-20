@@ -3,23 +3,35 @@
 
 
 html {
-  background: $main-bg $noise-bg;
+  background: $main-bg;
 }
 body {
+  font-size: 1.5em;
+  h1 { font-size: 2.6em; line-height: 1.2em; }
+  > nav {
+    form {
+      .search {
+        font-family: $sans;
+        @include border-radius(0);
+        border: 0px;
+        &:focus {
+        color: #444;
+        border-color: #80b1df;
+        @include box-shadow(#80b1df 0 0 4px, #80b1df 0 0 3px inset);
+        background-color: #fff;
+        outline: none;
+      }
+      }
+    }
+  }
   > div {
     > div {
       border-right: none;
     }
   }
-  > header {
-  background: $main-bg $noise-bg;
-  }
-}
-
-@media only screen and (min-width: 992px) {
-  body { font-size: 1.5em; }
-  h1 { font-size: 2.6em; line-height: 1.2em; }
 }
 
 a { text-decoration: none;
   &:hover { text-decoration: none; } }
+
+
