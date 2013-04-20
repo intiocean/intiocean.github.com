@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: linked | Thoughts and other words]]></title>
-  <link href="http://intiocean.github.com/words/categories/linked/atom.xml" rel="self"/>
-  <link href="http://intiocean.github.com/"/>
-  <updated>2013-04-13T21:19:08+01:00</updated>
-  <id>http://intiocean.github.com/</id>
+  <link href="http://intiocean.com/words/categories/linked/atom.xml" rel="self"/>
+  <link href="http://intiocean.com/"/>
+  <updated>2013-04-20T21:48:07+01:00</updated>
+  <id>http://intiocean.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tips from a design technologist]]></title>
-    <link href="http://intiocean.github.com/words/2013/02/tips-from-a-developer-slash-designer/"/>
+    <link href="http://intiocean.com/words/2013/02/tips-from-a-developer-slash-designer/"/>
     <updated>2013-02-09T14:05:00+00:00</updated>
-    <id>http://intiocean.github.com/words/2013/02/tips-from-a-developer-slash-designer</id>
+    <id>http://intiocean.com/words/2013/02/tips-from-a-developer-slash-designer</id>
     <content type="html"><![CDATA[<p>I was reading an article about becoming a designer and some of the points resonated with me. (via <a href="http://hackdesign.org">hack design</a>)</p>
 
 <p><blockquote><p>Tip #3: Design everything you do</p></p><p><p>…Your emails should be written/composed clearly and beautifully. Your conversations with individuals should be designed through how you listen, how you maintain eye contact, how you respond (both spoken and unspoken). Everything you do should have a reason, no matter how small. Design requires constant practice, this is a great way to keep growing.</p></blockquote></p>

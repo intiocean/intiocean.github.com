@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meta | Thoughts and other words]]></title>
-  <link href="http://intiocean.github.com/words/categories/meta/atom.xml" rel="self"/>
-  <link href="http://intiocean.github.com/"/>
-  <updated>2013-04-13T21:19:08+01:00</updated>
-  <id>http://intiocean.github.com/</id>
+  <link href="http://intiocean.com/words/categories/meta/atom.xml" rel="self"/>
+  <link href="http://intiocean.com/"/>
+  <updated>2013-04-20T21:48:07+01:00</updated>
+  <id>http://intiocean.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Update]]></title>
-    <link href="http://intiocean.github.com/words/2013/02/update/"/>
+    <link href="http://intiocean.com/words/2013/02/update/"/>
     <updated>2013-02-05T21:31:00+00:00</updated>
-    <id>http://intiocean.github.com/words/2013/02/update</id>
+    <id>http://intiocean.com/words/2013/02/update</id>
     <content type="html"><![CDATA[<p>It has been a while since I last posted however its my aim to post more often than I have in the past.</p>
 
 <p>I will be posting short pieces with my thoughts on content which captures my intrest, of course I will always include links back to the original sources.</p>
@@ -26,9 +26,9 @@
   
   <entry>
     <title type="html"><![CDATA[octopress]]></title>
-    <link href="http://intiocean.github.com/words/2012/04/octopress/"/>
+    <link href="http://intiocean.com/words/2012/04/octopress/"/>
     <updated>2012-04-09T14:37:00+01:00</updated>
-    <id>http://intiocean.github.com/words/2012/04/octopress</id>
+    <id>http://intiocean.com/words/2012/04/octopress</id>
     <content type="html"><![CDATA[<p>I’m trying out <a href="http://octopress.org">octopress</a>. </p>
 
 <p>As you may or may not have noticed depending on how long after this post was written you are reading this, I have decided to use <a href="http://octopress.org">octopress</a>. If it happens that you are reading this as the second most recent post it is likely that my most recent post is about a different blogging framework which I have decided to use! ;)</p>
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[Adding my picture to the header]]></title>
-    <link href="http://intiocean.github.com/words/2011/11/adding-my-picture-to-the-header/"/>
+    <link href="http://intiocean.com/words/2011/11/adding-my-picture-to-the-header/"/>
     <updated>2011-11-19T17:07:00+00:00</updated>
-    <id>http://intiocean.github.com/words/2011/11/adding-my-picture-to-the-header</id>
+    <id>http://intiocean.com/words/2011/11/adding-my-picture-to-the-header</id>
     <content type="html"><![CDATA[<p>I just added my picture to the header of the site. I really like how it turned out. Here are before and after shots:</p>
 
 <p><img src="/images/content/20111119-before.jpg" alt="before" /></p>
@@ -52,9 +52,9 @@
   
   <entry>
     <title type="html"><![CDATA[On the design of this site]]></title>
-    <link href="http://intiocean.github.com/words/2011/09/on-the-design-of-this-site/"/>
+    <link href="http://intiocean.com/words/2011/09/on-the-design-of-this-site/"/>
     <updated>2011-09-11T20:51:00+01:00</updated>
-    <id>http://intiocean.github.com/words/2011/09/on-the-design-of-this-site</id>
+    <id>http://intiocean.com/words/2011/09/on-the-design-of-this-site</id>
     <content type="html"><![CDATA[<p>I have been contemplating redesigning my website. Recently however wordpress updated and now there is a new default theme which comes with it (twenty eleven). I rather like this new theme and can’t convince myself (yet) if I still should redesign…</p>
 
 <p>Does anyone have any thoughts on the matter?</p>

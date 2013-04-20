@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: rambles | Thoughts and other words]]></title>
-  <link href="http://intiocean.github.com/words/categories/rambles/atom.xml" rel="self"/>
-  <link href="http://intiocean.github.com/"/>
-  <updated>2013-04-13T21:19:08+01:00</updated>
-  <id>http://intiocean.github.com/</id>
+  <link href="http://intiocean.com/words/categories/rambles/atom.xml" rel="self"/>
+  <link href="http://intiocean.com/"/>
+  <updated>2013-04-20T21:48:07+01:00</updated>
+  <id>http://intiocean.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Blogs I follow]]></title>
-    <link href="http://intiocean.github.com/words/2012/03/blogs-i-follow/"/>
+    <link href="http://intiocean.com/words/2012/03/blogs-i-follow/"/>
     <updated>2012-03-08T22:05:00+00:00</updated>
-    <id>http://intiocean.github.com/words/2012/03/blogs-i-follow</id>
+    <id>http://intiocean.com/words/2012/03/blogs-i-follow</id>
     <content type="html"><![CDATA[<p>Below are a few of my favorite blogs which I follow.</p>
 
 <ul>
@@ -53,9 +53,9 @@
   
   <entry>
     <title type="html"><![CDATA[Post one]]></title>
-    <link href="http://intiocean.github.com/words/2011/02/post-one/"/>
+    <link href="http://intiocean.com/words/2011/02/post-one/"/>
     <updated>2011-02-16T20:22:00+00:00</updated>
-    <id>http://intiocean.github.com/words/2011/02/post-one</id>
+    <id>http://intiocean.com/words/2011/02/post-one</id>
     <content type="html"><![CDATA[<p>I know you are all thinking “this is the second post, not the first” but I have decided to call it post one for a number of reasons.</p>
 
 <p>Firstly. The geeky reason: we all know (or do we) that indices start at zero therefore this post has the index one.</p>

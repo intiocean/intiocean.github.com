@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: recipes | Thoughts and other words]]></title>
-  <link href="http://intiocean.github.com/words/categories/recipes/atom.xml" rel="self"/>
-  <link href="http://intiocean.github.com/"/>
-  <updated>2013-04-13T21:19:08+01:00</updated>
-  <id>http://intiocean.github.com/</id>
+  <link href="http://intiocean.com/words/categories/recipes/atom.xml" rel="self"/>
+  <link href="http://intiocean.com/"/>
+  <updated>2013-04-20T21:48:07+01:00</updated>
+  <id>http://intiocean.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Quick Miso and Broccoli soup]]></title>
-    <link href="http://intiocean.github.com/words/2011/11/quick-miso-and-broccoli-soup/"/>
+    <link href="http://intiocean.com/words/2011/11/quick-miso-and-broccoli-soup/"/>
     <updated>2011-11-28T16:47:00+00:00</updated>
-    <id>http://intiocean.github.com/words/2011/11/quick-miso-and-broccoli-soup</id>
+    <id>http://intiocean.com/words/2011/11/quick-miso-and-broccoli-soup</id>
     <content type="html"><![CDATA[<p><img src="/images/content/20111128-miso.jpg" alt="Miso Soup" />
 ##Ingredients (for 3):
 - A little vegetable oil (I use sunflower)
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[Inti's butter beans with rice]]></title>
-    <link href="http://intiocean.github.com/words/2011/05/intis-butter-beans-with-rice/"/>
+    <link href="http://intiocean.com/words/2011/05/intis-butter-beans-with-rice/"/>
     <updated>2011-05-30T21:37:00+01:00</updated>
-    <id>http://intiocean.github.com/words/2011/05/intis-butter-beans-with-rice</id>
+    <id>http://intiocean.com/words/2011/05/intis-butter-beans-with-rice</id>
     <content type="html"><![CDATA[<h2 id="ingredients-for-2">Ingredients: (for 2)</h2>
 <p>###For the rice:<br />
 - A little oil (personally I like sunflower oil for this)<br />
