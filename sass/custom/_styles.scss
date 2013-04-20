@@ -15,11 +15,8 @@ body {
         @include border-radius(0);
         border: 0px;
         &:focus {
-        color: #444;
-        border-color: #80b1df;
-        @include box-shadow(#80b1df 0 0 4px, #80b1df 0 0 3px inset);
-        background-color: #fff;
-        outline: none;
+        border-color: $main-bg;
+        @include box-shadow($main-bg 0 0 4px, $main-bg 0 0 3px inset);
       }
       }
     }
