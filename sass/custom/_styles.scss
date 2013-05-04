@@ -21,3 +21,43 @@ a { text-decoration: none;
   &:hover { text-decoration: none; } }
 
 
+
+
+// get the navigation to stick around even when the width is < 550 px
+body > nav {
+  @media only screen {
+    font-size: .9em;
+    ul {
+      @include horizontal-list(0);
+      float: left;
+      display: block;
+      padding-top: .15em;
+    }
+    ul.subscription {
+      margin-left: .8em;
+      float: right;
+      li:last-child a { padding-right: 0; }
+    }
+    ul li {
+      margin: 0;
+    }
+    a {
+      @include link-colors($nav-color, $nav-color-hover, $visited: $nav-color);
+      font-family: $sans;
+      text-shadow: lighten($nav-bg, 12) 0 1px;
+      float: left;
+      text-decoration: none;
+      font-size: 1.1em;
+      padding: .1em 0;
+      line-height: 1.5em;
+    }
+    li + li {
+      border-left: 1px solid $nav-border-left;
+      margin-left: .8em;
+      a {
+        padding-left: .8em;
+        border-left: 1px solid $nav-border-right;
+      }
+    }
+  }
+}
