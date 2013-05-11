@@ -16,7 +16,7 @@ What does it mean to have completed something [a piece of work] in this age of [
 When is a software package or library complete? At the first release, second, tenth? When it's decommissioned?
 
 {% blockquote %}
-Release often, release early.
+Release early, release often.
 {% endblockquote %}
 
 ~Thoughts in a coffee shop. Saturday the 11th of May 2013.
