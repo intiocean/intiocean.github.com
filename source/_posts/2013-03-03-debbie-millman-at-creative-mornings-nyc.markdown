@@ -8,7 +8,7 @@ categories:
 - quotes
 external-url: http://vimeo.com/22746156
 ---
-A quote from end of a really great presentation titled "[The Top 10 Things I Wish I Knew When I Graduated College](http://vimeo.com/22746156)" by Debbie Millman at the February Creative Mornings in New York.
+A quote from end of a really great presentation titled “[The Top 10 Things I Wish I Knew When I Graduated College](http://vimeo.com/22746156)” by Debbie Millman at the February Creative Mornings in New York.
 
 {% blockquote %}
 If you think that you're too busy to do something. I wanna talk to you about what busy means. I think busy is a four letter word. I think busy is never about busy in the sane way that sex is not about sex and money is never about money.
