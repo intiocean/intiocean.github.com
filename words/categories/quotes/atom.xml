@@ -4,7 +4,7 @@
   <title><![CDATA[Category: quotes | Thoughts and other words]]></title>
   <link href="http://intiocean.com/words/categories/quotes/atom.xml" rel="self"/>
   <link href="http://intiocean.com/"/>
-  <updated>2013-05-11T19:09:48+01:00</updated>
+  <updated>2013-10-20T21:30:50+01:00</updated>
   <id>http://intiocean.com/</id>
   <author>
     <name><![CDATA[Inti Ocean]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[C is a very nice high level language]]></title>
+    <link href="http://intiocean.com/words/2013/10/c-is-a-very-nice-high-level-language/"/>
+    <updated>2013-10-20T21:19:00+01:00</updated>
+    <id>http://intiocean.com/words/2013/10/c-is-a-very-nice-high-level-language</id>
+    <content type="html"><![CDATA[<p>A quote which made me smile today.</p>
+
+<p><blockquote><p>C is a very nice high level language with many of the modern programming constructs in it. The thing thats very important about it is that it lets you avoid the details of the machine when you want to, but when you need to, and sometimes when you’re writing an operating system you really do need to, you can get at the details of the machine and control everything. But you’re not forced to do that and thats important because that means you can write operating systems in this language and still have something that can be portable to other machines.</p><footer><strong>John R. Mashey 1982</strong> <cite><a href='http://youtube.com/watch?v=tc4ROCJYbm0'>The UNIX Operating System</a></cite></footer></blockquote></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Debbie Millman at Creative Mornings NYC]]></title>
