@@ -60,4 +60,8 @@ body > nav {
       }
     }
   }
+  // hide the rss icon
+  .subscription {
+      visibility: hidden;
+  }
 }
