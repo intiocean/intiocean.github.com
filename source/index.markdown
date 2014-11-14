@@ -3,14 +3,15 @@ layout: page
 title: "Inti Ocean"
 footer: true
 ---
-Hi,
 
-I'm a Quantitative Developer, Photographer and Designer who lives and works in London. My favorite time of day is dawn, although I don't often get up in time to see it.
+I'm a developer* with a strong interest in design & the web and a belief that good, thoughtful design makes a difference.
 
-My aim for this website is to collect links, thoughts and images that inspire me or capture my interest. I also hope that it may be useful for me to refer back to in the future when I need to remind myself of how young and na&#239;ve I used to be, or am, or something...
+Born in a little village just outside Bath and brought up all over the world I love to travel! These days I spend most of my time in the tiny town of London.
 
-If you want to know more about me you can find me around the web by running a web search for my name!
+This website will be a (rarely updated) collection of quotes, thoughts and images which inspire me.
 
-Thats all for now,
+Inti  
+[@IntiOcean](http://twitter.com/intiocean)  
+[me@inti.co](mailto:me@inti.co)  
 
-Inti
+*Algorithmic trading systems developer
