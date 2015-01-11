@@ -6,15 +6,15 @@ categories:
 - recipes
 ---
 
-##Ingredients: (for 2)
-###For the rice:  
+## Ingredients: (for 2)
+### For the rice:  
 - A little oil (personally I like sunflower oil for this)  
 - 1 large Clove of Garlic (Crushed)  
 - 1 cup of Basmati Rice (You may not need this much - I do love rice)  
 - 1.5 cups of Water  
 - salt to taste (~1/3 tsb)  
 
-###For the Beans:  
+### For the Beans:  
 - A little oil  
 - 1 medium onion (chopped)  
 - 1/2 tsb Cumin Seeds  
@@ -25,7 +25,7 @@ categories:
 - salt to taste  
 - Yogurt (Personally I like greek yogurt but any plain yogurt will do)  
 
-##Recipe:
+## Recipe:
 ### For the rice:
   * Boil some water
   * Heat the oil and add the crushed garlic and stir
@@ -50,6 +50,3 @@ Hopefully by now the rice is just about done and you can eat it :)
 Serve with the yogurt which although you might not think would go that well with the tomatoey beans it works a treat.
 Enjoy!  
 Note: The measurements might be a tad off as I usually measure to eye.
-
-
-

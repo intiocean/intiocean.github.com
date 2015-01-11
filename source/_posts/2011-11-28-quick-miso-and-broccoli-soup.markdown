@@ -7,7 +7,7 @@ categories:
 ---
 
 ![Miso Soup](/images/content/20111128-miso.jpg)
-##Ingredients (for 3):
+## Ingredients (for 3):
 - A little vegetable oil (I use sunflower)
 - A teaspoon of sesame oil
 - 2 Celery sticks
@@ -18,7 +18,7 @@ categories:
 - Sesame seeds
 - A dash of tabasco or tiny bit of chili in some other form
 
-##Recipe:
+## Recipe:
 - Slice the celery thinly so you get moon shaped slices.
 - Peel and slice the carrot into half centimetre circles.
 - Put some vegetable oil and the sesame oil in a large saucepan.
