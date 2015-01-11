@@ -6,15 +6,16 @@ categories:
 - recipes
 ---
 
-## Ingredients: (for 2)
-### For the rice:  
+## Ingredients (for 2)
+
+### For the rice
 - A little oil (personally I like sunflower oil for this)  
 - 1 large Clove of Garlic (Crushed)  
 - 1 cup of Basmati Rice (You may not need this much - I do love rice)  
 - 1.5 cups of Water  
 - salt to taste (~1/3 tsb)  
 
-### For the Beans:  
+### For the Beans
 - A little oil  
 - 1 medium onion (chopped)  
 - 1/2 tsb Cumin Seeds  
@@ -25,8 +26,10 @@ categories:
 - salt to taste  
 - Yogurt (Personally I like greek yogurt but any plain yogurt will do)  
 
-## Recipe:
-### For the rice:
+
+## Recipe
+
+### For the rice
   * Boil some water
   * Heat the oil and add the crushed garlic and stir
   * Once the garlic is golden (this will be very quick) add the water and the salt
@@ -34,7 +37,7 @@ categories:
   * Once it starts boiling turn down the heat as low as possible and leave to cook for ~20 minutes. After 20 minutes taste the rice to see if it is cooked. If the water dries up before the rice is cooked then add a small amount more. Note: you want the water to dry up completely at the same time as the rice becomes cooked!
 
 
-### For the Beans:
+### For the Beans
 Once the rice is on start the beans.
 
   * Heat the oil and add the chopped onion

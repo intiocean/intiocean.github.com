@@ -7,6 +7,7 @@ categories:
 ---
 
 ![Miso Soup](/images/content/20111128-miso.jpg)
+
 ## Ingredients (for 3):
 - A little vegetable oil (I use sunflower)
 - A teaspoon of sesame oil
